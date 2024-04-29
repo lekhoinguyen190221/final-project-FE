@@ -1,0 +1,12 @@
+[
+  { "key": 1, "value": "Nhà hàng Á-Âu" },
+  { "key": 2, "value": "Nhà hàng Nhật Bản" },
+  { "key": 3, "value": "Nhà hàng Trung Hoa" },
+  { "key": 4, "value": "Nhà hàng Ấn Độ" },
+  { "key": 5, "value": "Nhà hàng Hàn Quốc" },
+  { "key": 6, "value": "Nhà hàng thức ăn nhanh" },
+  { "key": 7, "value": "Nhà hàng bình dân phổ biến" },
+  { "key": 8, "value": "Nhà hàng cao cấp phổ biến" },
+  { "key": 9, "value": "Nhà hàng bình dân dương đại" },
+  { "key": 10, "value": "Nhà hàng sang trọng" }
+]
